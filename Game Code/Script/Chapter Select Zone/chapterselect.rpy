@@ -195,7 +195,7 @@ label redo_identity_loop:
 
             $xStr = renpy.random.choice(["Come a little closer, I won't bite... Unless you want me to..",
                 "Alone on a late night? Don't worry, I'll be there soon..",
-                "If you let me, I'll carry you off into the night..",,
+                "If you let me, I'll carry you off into the night..",
                 "Well aren't you a cute little thing?",
                 "Are you a lamp? Because I would crash into a window and die for you..",
                 "Wanna touch my antennae?",
